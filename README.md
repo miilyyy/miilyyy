@@ -1,7 +1,7 @@
 ## MATERIA : PROGRAMACION
 # NOMBRE DEL ALUMNO/A: MARIA MILAGROS VARELA
 # CURSO: SEXTO AÑO.
-# #TEMAS TRABAJADOS EN EL CUATRIMESTRE:
+# TEMAS TRABAJADOS EN EL CUATRIMESTRE:
 
 ## NUMPY
 #NumPy (Numerical Python) es una librería fundamental para la computación científica en Python. Su principal característica es el manejo eficiente de arreglos multidimensionales (arrays) y matrices, ofreciendo operaciones matemáticas rápidas y funciones para manipular datos numéricos.
