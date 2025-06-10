@@ -1,5 +1,6 @@
 ## MATERIA : PROGRAMACION
 # NOMBRE DEL ALUMNO/A: MARIA MILAGROS VARELA
+# CURSO: SEXTO AÑO.
 # #TEMAS TRABAJADOS EN EL CUATRIMESTRE:
 
 ## NUMPY
@@ -196,6 +197,8 @@ TensorFlow
 # Una encuesta es una técnica de recopilación de información que consiste en formular una serie de preguntas a un grupo de personas para obtener datos sobre opiniones, comportamientos, características o experiencias.
 
 # Trabajamos sobre una encuesta basada en politica, viendo asi distintas opiniones de personas de distintas edades.
+
+## GRACIAS POR SU ATENCION :)
 
 
 
