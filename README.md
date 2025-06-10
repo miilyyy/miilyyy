@@ -1,6 +1,6 @@
 ## MATERIA : PROGRAMACION
 # NOMBRE DEL ALUMNO/A: MARIA MILAGROS VARELA
-#TEMAS TRABAJADOS EN EL CUATRIMESTRE:
+# #TEMAS TRABAJADOS EN EL CUATRIMESTRE:
 
 ## NUMPY
 #NumPy (Numerical Python) es una librería fundamental para la computación científica en Python. Su principal característica es el manejo eficiente de arreglos multidimensionales (arrays) y matrices, ofreciendo operaciones matemáticas rápidas y funciones para manipular datos numéricos.
@@ -173,27 +173,29 @@ TensorFlow
 
 #Un boxplot es una representación gráfica que muestra la distribución de un conjunto de datos numéricos a través de sus cuartiles.
 
-##Características principales:
+## Características principales:
 
-#Indica la dispersión y simetría de los datos.
+ # Indica la dispersión y simetría de los datos.
 
-#Ayuda a detectar outliers (valores atípicos) que se representan como puntos fuera de la “caja” y los “bigotes”.
+# Ayuda a detectar outliers (valores atípicos) que se representan como puntos fuera de la “caja” y los “bigotes”.
 
-#Útil para comparar distribuciones entre diferentes grupos o categorías.
+# Útil para comparar distribuciones entre diferentes grupos o categorías.
 
 ## GRAFICO DE VIOLIN
 
-#Un gráfico de violín combina un boxplot con un gráfico de densidad para mostrar la distribución de un conjunto de datos.
+# Un gráfico de violín combina un boxplot con un gráfico de densidad para mostrar la distribución de un conjunto de datos.
 
-##Características principales:
+## Características principales:
 
-#Muestra la mediana y los cuartiles (como en un boxplot).
+# Muestra la mediana y los cuartiles (como en un boxplot).
 
 # Representa la densidad de probabilidad de los datos a cada lado, mostrando la forma de la distribución.
 
-#Permite visualizar multimodalidad en la distribución.
+## ENCUESTA
 
-#Útil para comparar distribuciones entre grupos de forma más detallada que un boxplot tradicional.
+# Una encuesta es una técnica de recopilación de información que consiste en formular una serie de preguntas a un grupo de personas para obtener datos sobre opiniones, comportamientos, características o experiencias.
+
+# Trabajamos sobre una encuesta basada en politica, viendo asi distintas opiniones de personas de distintas edades.
 
 
 
